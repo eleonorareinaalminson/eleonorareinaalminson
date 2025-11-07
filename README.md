@@ -1,6 +1,6 @@
-# Hi, I’m Eleonora 👾
+# Hi, 👾 I’m Eleonora 
 
-✨I go by Ellie, I'm studying .NET Development at KYH Stockholm '26. 🎓
+✨I go by Ellie 🎓 I'm studying .NET Development at KYH Stockholm '26. 
 
 My latest work focused on development with .NET/C#, database design and architecture, IoT systems with real-time communication using Azure Service Bus, REST APIs, and WPF/MVVM patterns.
 
@@ -10,7 +10,7 @@ Former Development Leader at Region Stockholm, where I led the implementation of
 
 **Gym Booking System** - A platform developed in agile team environment with Github Projects: https://github.com/users/LuxmiPalma/projects/3 
 
-## Recent Projects
+## Recent Project 
 
 **IoT Device Management** - WPF application with Azure Service Bus integration for real-time device communication
 
