@@ -1,6 +1,6 @@
-# Hi, I’m Eleonora - I go by Ellie.
+# Hi, I’m Eleonora 👾
 
-I’m studying .NET Development at KYH Stockholm '26.
+✨I go by Ellie, I'm studying .NET Development at KYH Stockholm '26.
 
 Former Development Leader at Region Stockholm, where I led the implementation of 1177's e-services. This experience informs my approach to user-centered design and digital transformation. 
 
