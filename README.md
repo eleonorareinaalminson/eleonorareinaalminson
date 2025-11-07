@@ -6,13 +6,13 @@ Former Development Leader at Region Stockholm, where I led the implementation of
 
 My latest work focused on development with .NET/C#, database design and architecture, IoT systems with real-time communication using Azure Service Bus, REST APIs, and WPF/MVVM patterns.
 
+## Current Project 
+
+**Gym Booking System** - Booking platform developed in agile team environment with Github Projects: https://github.com/users/LuxmiPalma/projects/3 
+
 ## Recent Projects
 
-**Gym Booking System** - Booking platform for Core Gym Club developed in agile team environment
-
 **IoT Device Management** - WPF application with Azure Service Bus integration for real-time device communication
-
-**ASP.NET Core Identity** - Custom implementation with database architecture design
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](...)
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](...)
