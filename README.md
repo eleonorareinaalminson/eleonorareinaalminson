@@ -6,7 +6,7 @@ My latest work focused on development with .NET/C#, database design and architec
 
 ## Current Project 
 
-**Gym Booking System** - Booking platform developed in agile team environment with Github Projects: https://github.com/users/LuxmiPalma/projects/3 
+**Gym Booking System** - A platform developed in agile team environment with Github Projects: https://github.com/users/LuxmiPalma/projects/3 
 
 ## Recent Projects
 
