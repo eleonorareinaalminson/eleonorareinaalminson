@@ -8,7 +8,7 @@ Former Development Leader at Region Stockholm, where I led the implementation of
 
 ## Current Project 
 
-**Gym Booking System** - A platform developed in agile team environment with Github Projects: https://github.com/users/LuxmiPalma/projects/3 
+**Gym Booking System** - A platform developed in agile team environment with Github Projects: https://github.com/KYH-Agil-GruppA 
 
 ## Recent Project 
 
