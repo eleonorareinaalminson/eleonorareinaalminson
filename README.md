@@ -1,6 +1,7 @@
     Hello world 👾 I'm Ellie
 
-☑️ Former Development-leader, now .NET Developer at KYH Stockholm '26
+☑️ Former Development-leader,
+now .NET Developer at KYH Stockholm '26 🎓
 
 ## Current Project 
 
