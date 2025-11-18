@@ -1,14 +1,12 @@
-    Hello world
+    Hello world 👾 I'm Ellie
 
-✨I go by Ellie. Former Development Leader, now .NET Developer at KYH Stockholm '26 🎓
-
-My latest work focused on development with .NET/C#, database design and architecture, IoT systems with real-time communication using Azure Service Bus, REST APIs, and WPF/MVVM patterns.
+    Former Development-leader, Now .NET Developer at KYH Stockholm '26
 
 ## Current Project 
 
 **Gym Booking System** - A platform developed in agile team environment with Github Projects: https://github.com/KYH-Agil-GruppA 
 
-## Recent Project 
+## Latest Project 
 
 **IoT Device Management** - WPF application with Azure Service Bus integration for real-time device communication
 
