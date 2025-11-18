@@ -1,10 +1,8 @@
-# Hi, 👾 I’m Eleonora 
+# Hello world
 
-I go by Ellie. I'm studying .NET Development at KYH Stockholm '26 🎓
+✨I go by Ellie. Former Development Leader, now .NET Developer at KYH Stockholm '26 🎓
 
 My latest work focused on development with .NET/C#, database design and architecture, IoT systems with real-time communication using Azure Service Bus, REST APIs, and WPF/MVVM patterns.
-
-Former Development Leader at Region Stockholm, where I led the implementation of 1177's e-services. This experience informs my approach to user-centered design and digital transformation. 
 
 ## Current Project 
 
