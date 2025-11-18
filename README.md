@@ -5,7 +5,8 @@ now .NET Developer at KYH Stockholm '26 🎓
 
 ## Current Project 
 
-**Gym Booking System** - A platform developed in agile team environment with Github Projects: https://github.com/KYH-Agil-GruppA 
+**Gym Booking System** - A platform developed in agile team environment with GitHub-Projects: 
+https://github.com/KYH-Agil-GruppA 
 
 ## Latest Project 
 
