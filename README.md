@@ -16,3 +16,5 @@ https://github.com/KYH-Agil-GruppA
 [![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)](...)
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](...)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](...)
+
+    Passion for clean code, system architecture and pragmatic problem-solving.
