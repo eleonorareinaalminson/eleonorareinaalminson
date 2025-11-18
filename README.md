@@ -1,5 +1,5 @@
     
-    Hello world 👾 I go by Ellie, former development leader, now .NET Student at KYH '26 🎓
+    Hello world 👾 I'm Eleonora, I go by Ellie, former development leader - now .NET Student at KYH '26 🎓
 
 
 ## Current Project 
